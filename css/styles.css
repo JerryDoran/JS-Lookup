@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.card.card-body {
+  background-color: #333;
+  color: darkgrey;
+}
